@@ -1,0 +1,9 @@
+# Ignore compiled directories
+build/
+bin/
+
+# Ignore heavy ROOT data files
+*.root
+
+# Ignore OS junk files
+.DS_Store
